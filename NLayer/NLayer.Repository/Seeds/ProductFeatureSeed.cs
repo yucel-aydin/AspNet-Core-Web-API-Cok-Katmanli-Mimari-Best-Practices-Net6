@@ -4,7 +4,7 @@ using NLayer.Core;
 
 namespace NLayer.Repository.Seeds
 {
-    internal class oductFeatureSeed : IEntityTypeConfiguration<ProductFeature>
+    internal class ProductFeatureSeed : IEntityTypeConfiguration<ProductFeature>
     {
         public void Configure(EntityTypeBuilder<ProductFeature> builder)
         {
