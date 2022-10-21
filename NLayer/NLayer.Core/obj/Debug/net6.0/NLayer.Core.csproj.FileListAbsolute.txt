@@ -1,0 +1,12 @@
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll

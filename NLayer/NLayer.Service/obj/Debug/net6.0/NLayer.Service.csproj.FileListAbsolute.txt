@@ -1,0 +1,17 @@
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
