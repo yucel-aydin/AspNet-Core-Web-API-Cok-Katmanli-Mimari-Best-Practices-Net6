@@ -22,6 +22,7 @@ namespace NLayer.Repository
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly()); // Bulunduğu assemplydeki tüm configurationları bulur ve uygular.
+            
             base.OnModelCreating(modelBuilder);
         }
     }
