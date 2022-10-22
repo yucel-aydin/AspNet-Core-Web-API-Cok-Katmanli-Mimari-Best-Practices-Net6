@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NLayer.Core
+﻿namespace NLayer.Core.Models
 {
     /// <summary>
     /// BaseEntity sınıfımızın nesne öreneğini(instance) oluşturmayacağımız için abstract olarak tanımladık.

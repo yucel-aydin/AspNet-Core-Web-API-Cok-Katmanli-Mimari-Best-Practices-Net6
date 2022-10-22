@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NLayer.Core.UnitOfWorks
+﻿namespace NLayer.Core.UnitOfWorks
 {
     /// <summary>
     /// Veritabanına yapılacak işlemleri toplu bir şekilde tek bir transaction üzerinden yönetilmesine izin verir.

@@ -1,11 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NLayer.Core;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+using NLayer.Core.Models;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NLayer.Repository
 {
