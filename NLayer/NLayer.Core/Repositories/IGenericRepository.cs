@@ -10,7 +10,7 @@ namespace NLayer.Core.Repositories
     public interface IGenericRepository<T> where T : class
     {
         Task<T> GetByIdAsync(int id);
-        IQueryable<T> GetAll(Expression<Func<T, bool>> expression);
+        IQueryable<T> GetAll();
 
 
         // List yerine IQueryable kullandığımızda yazılan sorgular direk db ye gitmez .toList(), .toListAsync() yaptıktan sonra db ye gider.

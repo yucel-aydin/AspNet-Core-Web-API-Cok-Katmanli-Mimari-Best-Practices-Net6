@@ -14,7 +14,7 @@ namespace NLayer.Core.Services
     public interface IService<T> where T : class
     {
         Task<T> GetByIdAsync(int id);
-        Task<IEnumarable<T>> GetAllAsync();
+        Task<IEnumerable<T>> GetAllAsync();
 
         // List yerine IQueryable kullandığımızda yazılan sorgular direk db ye gitmez .toList(), .toListAsync() yaptıktan sonra db ye gider.
         // Yani sorgu yapmıyor sorguyu oluşturuyoruz sadece.
@@ -24,8 +24,8 @@ namespace NLayer.Core.Services
 
         Task<bool> AnyAsync(Expression<Func<T, bool>> expression);
 
-        Task AddAsync(T entity);
-        Task AddRangeAsync(IEnumerable<T> entities);
+        Task<T> AddAsync(T entity);
+        Task<IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities);
 
         // Burada service tarafında delete ve update ile birlikte savechange çalışacağı için async yaptık.
         Task UpdateAsync(T entity);
