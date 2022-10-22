@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L0iKjMkR/UqXILdfY8/dWoSJXmC5BNHxVfNPQAjEtkqK8z4bad/B4ZLecTBmfqAEz/3qdshiv/Y1TqSTvE9xSQ==",
+  "dgSpecHash": "ZZ7GfNf0TQOdSNKlp9QtUTLiycv85y1myBhZjEEy2KMeE7EMxHHMtIkgPOxspGVy02Z7lC9zH6GI9MeombULpg==",
   "success": true,
   "projectFilePath": "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yucel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
