@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "YpF81jNlJ/uaekxf8FZhV1/FfA6rBOTrwymQufqHFaTkjVYALZ7jRGzfRHjAJjYSJAe2gaB3ma+yJSLfc1NU9A==",
+  "dgSpecHash": "DFKzE50kJprFICaQDR0X2bwPVa3Q0IudU6EAMMCzIqG5eBlAEzUcn03Ql6gWq8Ox2gQBj7h4rnEUDNWAWOOTMg==",
   "success": true,
   "projectFilePath": "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yucel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.10\\microsoft.entityframeworkcore.design.6.0.10.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.10\\microsoft.entityframeworkcore.sqlserver.6.0.10.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
