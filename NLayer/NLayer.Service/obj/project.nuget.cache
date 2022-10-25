@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZ7GfNf0TQOdSNKlp9QtUTLiycv85y1myBhZjEEy2KMeE7EMxHHMtIkgPOxspGVy02Z7lC9zH6GI9MeombULpg==",
+  "dgSpecHash": "Z+PZYy48wZCR1k6q9Ljs3Rw61ywTQd94t0+zwAomWtcKg6oIGMh1ZIyboZgKSHoQqMpiZlFhAmKzZbYCvdK/Iw==",
   "success": true,
   "projectFilePath": "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yucel\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\yucel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\yucel\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
