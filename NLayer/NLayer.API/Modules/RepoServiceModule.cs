@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using NLayer.Caching;
 using NLayer.Core.Repositories;
 using NLayer.Core.Services;
 using NLayer.Core.UnitOfWorks;
@@ -58,6 +59,7 @@ namespace NLayer.API.Modules
             // InstancePerLifetimeScope => asp.net core daki "scope" a karşılık gelir.
             // InstancePerDependency    => asp.net core daki "transient" a karşılık gelir.
 
+            builder.RegisterType<ProductServiceWithCaching>().As<IProductService>();
         }
 
     }

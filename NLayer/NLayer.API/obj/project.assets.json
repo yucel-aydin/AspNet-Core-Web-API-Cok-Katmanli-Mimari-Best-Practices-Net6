@@ -970,6 +970,19 @@
           }
         }
       },
+      "NLayer.Caching/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NLayer.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        }
+      },
       "NLayer.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2664,6 +2677,11 @@
         "version.txt"
       ]
     },
+    "NLayer.Caching/1.0.0": {
+      "type": "project",
+      "path": "../NLayer.Caching/NLayer.Caching.csproj",
+      "msbuildProject": "../NLayer.Caching/NLayer.Caching.csproj"
+    },
     "NLayer.Core/1.0.0": {
       "type": "project",
       "path": "../NLayer.Core/NLayer.Core.csproj",
@@ -2684,7 +2702,7 @@
     "net6.0": [
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.10",
-      "NLayer.Service >= 1.0.0",
+      "NLayer.Caching >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -2715,8 +2733,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Service\\NLayer.Service.csproj"
+            "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Caching\\NLayer.Caching.csproj": {
+              "projectPath": "D:\\DEVELOPMENT\\Udemy\\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\\NLayer\\NLayer.Caching\\NLayer.Caching.csproj"
             }
           }
         }
