@@ -15,30 +15,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-pf4micjrri
+[D:/DEVELOPMENT/Udemy/AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6/NLayer/NLayer.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vf0z1lvtuw
