@@ -2203,6 +2203,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
+      "FluentValidation.AspNetCore >= 11.2.2",
       "NLayer.Service >= 1.0.0"
     ]
   },
@@ -2252,6 +2253,10 @@
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "FluentValidation.AspNetCore": {
+            "target": "Package",
+            "version": "[11.2.2, )"
           }
         },
         "imports": [

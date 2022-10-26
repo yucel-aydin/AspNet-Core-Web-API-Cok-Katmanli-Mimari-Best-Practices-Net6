@@ -1,4 +1,5 @@
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
@@ -12,6 +13,5 @@ D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
-D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
-D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
 D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+D:\DEVELOPMENT\Udemy\AspNet-Core-Web-API-Cok-Katmanli-Mimari-Best-Practices-Net6\NLayer\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
