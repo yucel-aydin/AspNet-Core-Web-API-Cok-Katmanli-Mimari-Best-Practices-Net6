@@ -13,7 +13,7 @@ namespace NLayer.Repository.Seeds
                 Id = 1,
                 Name = "Kalemler",
                 CreatedDate = DateTime.Now
-            }, 
+            },
             new Category
             {
                 Id = 2,

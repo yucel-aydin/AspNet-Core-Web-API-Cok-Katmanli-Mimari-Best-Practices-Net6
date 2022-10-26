@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 
 namespace NLayer.Repository.Repositories
 {
-    public class GenericRepository<T> : IGenericRepository<T> where T:class
+    public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         //Temel crud operasyonları yetmediğinde miras alınan yerde erişilebilmesi için protected tanımladık.
         //
@@ -14,10 +14,10 @@ namespace NLayer.Repository.Repositories
         public GenericRepository(AppDbContext context)
         {
             _context = context;
-            _dbset=_context.Set<T>();
-        }   
+            _dbset = _context.Set<T>();
+        }
 
-      
+
         public async Task AddAsync(T entity)
         {
             await _dbset.AddAsync(entity);
@@ -30,7 +30,7 @@ namespace NLayer.Repository.Repositories
 
         public async Task<bool> AnyAsync(Expression<Func<T, bool>> expression)
         {
-            return await _dbset.AnyAsync(expression); 
+            return await _dbset.AnyAsync(expression);
         }
 
         public IQueryable<T> GetAll()
@@ -48,12 +48,12 @@ namespace NLayer.Repository.Repositories
         {
             //Alttaki iki satır aynıdır.
             //_context.Entry(entity).State = EntityState.Deleted;
-           _dbset.Remove(entity);
+            _dbset.Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<T> entities)
         {
-            _dbset.RemoveRange(entities);   
+            _dbset.RemoveRange(entities);
         }
 
         public void Update(T entity)

@@ -7,12 +7,7 @@ using NLayer.Core.Repositories;
 using NLayer.Core.Services;
 using NLayer.Core.UnitOfWorks;
 using NLayer.Service.Exceptions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NLayer.Caching
 {
@@ -51,7 +46,7 @@ namespace NLayer.Caching
             return entities;
         }
 
-        public  Task<bool> AnyAsync(Expression<Func<Product, bool>> expression)
+        public Task<bool> AnyAsync(Expression<Func<Product, bool>> expression)
         {
             return Task.FromResult(_memoryCache.Get<bool>(CacheProductKey).Equals(expression));
         }
@@ -68,20 +63,20 @@ namespace NLayer.Caching
             {
                 throw new NotFoundException($"{typeof(Product).Name}({id}) not found.");
             }
-            return Task.FromResult(product); 
+            return Task.FromResult(product);
         }
 
         public Task<List<ProductWithCategoryDto>> GetProductWithCategory()
         {
-            var products= Task.FromResult(_memoryCache.Get<IEnumerable<Product>>(CacheProductKey));
+            var products = Task.FromResult(_memoryCache.Get<IEnumerable<Product>>(CacheProductKey));
             var productsWithCategoryDto = _mapper.Map<List<ProductWithCategoryDto>>(products);
             return Task.FromResult(productsWithCategoryDto);
-        
+
         }
 
         public async Task RemoveAsync(Product entity)
         {
-           _repository.Remove(entity);
+            _repository.Remove(entity);
             await _unitOfWork.CommitAsync();
             await CacheAllProductsAsync();
         }

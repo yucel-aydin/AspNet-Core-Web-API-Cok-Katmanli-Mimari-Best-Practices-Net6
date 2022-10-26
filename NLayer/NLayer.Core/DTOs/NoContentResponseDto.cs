@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json.Serialization;
-using System.Threading.Tasks;
+﻿using System.Text.Json.Serialization;
 
 namespace NLayer.Core.DTOs
 {
@@ -18,13 +13,13 @@ namespace NLayer.Core.DTOs
         //Static Factory Metot Design Patern
         public static NoContentResponseDto Success(int statusCode)
         {
-            return new NoContentResponseDto{ StatusCode = statusCode};
+            return new NoContentResponseDto { StatusCode = statusCode };
         }
 
 
         public static NoContentResponseDto Fail(int statusCode, List<string> errors)
         {
-            return new NoContentResponseDto{ StatusCode = statusCode, Errors = errors };
+            return new NoContentResponseDto { StatusCode = statusCode, Errors = errors };
         }
         public static NoContentResponseDto Fail(int statusCode, string errors)
         {

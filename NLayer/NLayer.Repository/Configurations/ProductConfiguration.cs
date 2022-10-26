@@ -12,7 +12,7 @@ namespace NLayer.Repository.Configurations
         /// <param name="builder"></param>
         public void Configure(EntityTypeBuilder<Product> builder)
         {
-            builder.HasKey(x => x.Id);  
+            builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).UseIdentityColumn();
             builder.Property(x => x.Name).IsRequired().HasMaxLength(200);
             builder.Property(x => x.Stock).IsRequired();
