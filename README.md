@@ -1,5 +1,5 @@
 
-# Bracns
+# Branches
 	1. main: mvc katmanı olmayan sadece api katmanlı versiyon
  	2. AspNETAPI-MVC: MVC Katmanının API katmanı ile entegre olduğu versiyon.
  	3. AspNETMVC: API katmanı olmadan MVC katmanın Service katmanıyla haberleştiği versiyon.
