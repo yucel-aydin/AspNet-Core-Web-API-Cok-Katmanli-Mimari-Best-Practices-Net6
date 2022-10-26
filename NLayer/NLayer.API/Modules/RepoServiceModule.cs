@@ -59,7 +59,7 @@ namespace NLayer.API.Modules
             // InstancePerLifetimeScope => asp.net core daki "scope" a karşılık gelir.
             // InstancePerDependency    => asp.net core daki "transient" a karşılık gelir.
 
-            builder.RegisterType<ProductServiceWithCaching>().As<IProductService>();
+            //builder.RegisterType<ProductServiceWithCaching>().As<IProductService>();
         }
 
     }
